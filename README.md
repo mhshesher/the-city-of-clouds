@@ -1,7 +1,7 @@
 # The City of Clouds
 
 <p align="center">
-<img allign="left" src="Images/Without Clouds.jpg" Height="5.00">     <img allign="center" src="Images/With Clouds.jpg" Height="5.00">
+<img allign="left" src="Images/Without Clouds.png" Height="5.00">     <img allign="center" src="Images/With Clouds.png" Height="5.00">
 </p>
 
 <p align="justify">
