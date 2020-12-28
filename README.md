@@ -9,7 +9,7 @@
 <br><br>
 I have added motion in this drawing with keyword functionality. The motion effect has been assigned to the clouds. Initially, after running the code, they are not visible. If we press <b>c</b> or <b>C</b>, the clouds will start floating.
 <br><br>
-I have used circles and rectangles as base figures to draw this scenario. And for drawing circles, I have used <b>Mid Point Circle Drawing Algorithm</b>.
+I have used circles and rectangles as base figures to draw the whole scenario. And for drawing circles, I have used <b>Mid Point Circle Drawing Algorithm</b>.
 <br><br><br>
 <b>You are welcomed, If you want to learn.</b>
 </p>
